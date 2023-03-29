@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.821106mm"
+   height="5.0119305mm"
+   viewBox="0 0 6.821106 5.0119305"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(713.52455,-1.3171469)">
+    <g
+       id="g616"
+       transform="translate(5.1837578,5.9226292)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:3.45906px;font-family:'Bliss Pro';-inkscape-font-specification:'Bliss Pro Bold';fill:#000000;stroke-width:0.0570486"
+         x="-728.49475"
+         y="-2.0964115"
+         id="text290"
+         transform="scale(0.98695983,1.0132125)"><tspan
+           sodipodi:role="line"
+           style="fill:#000000;stroke-width:0.0570486"
+           x="-728.49475"
+           y="-2.0964115"
+           id="tspan292">Excel</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:3.16278px;font-family:'Bliss Pro';-inkscape-font-specification:'Bliss Pro Bold';fill:#000000;stroke-width:0.0521622"
+         x="-738.95557"
+         y="0.36372542"
+         id="text610"
+         transform="scale(0.97270194,1.0280642)"><tspan
+           sodipodi:role="line"
+           style="fill:#000000;stroke-width:0.0521622"
+           x="-738.95557"
+           y="0.36372542"
+           id="tspan608">2CSV</tspan></text>
+    </g>
+  </g>
+</svg>

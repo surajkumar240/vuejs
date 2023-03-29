@@ -6,13 +6,15 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite build --base=/dist/"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.12",
+    "@sweetalert2/theme-dark": "^5.0.15",
     "@vueuse/core": "^9.13.0",
     "axios": "^1.3.4",
     "flowbite": "^1.6.4",
+    "sweetalert2": "^11.7.3",
     "vue": "^3.2.47",
     "vue-axios": "^3.5.2",
     "vue-sweetalert2": "^5.0.5"
@@ -22,6 +24,7 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
-    "vite": "^4.2.0"
+    "vite": "^4.2.0",
+    "vite-plugin-pwa": "^0.14.5"
   }
 }
